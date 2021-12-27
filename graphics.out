@@ -1,0 +1,245 @@
+Canvas #1
+ 01234567890123456789
+0                    0
+1                    1
+2                    2
+3  &&&&&&########    3
+4  &&&&&&########    4
+5  &&&&&&########    5
+6  &&&&&&########    6
+7  &&&&&&########    7
+8  &&&&&&            8
+9  &&&&&&            9
+
+Canvas #2
+ 0123456789
+0^^^^^^    0
+1^^^^^^))) 1
+2^^^^^^))) 2
+3^^^^^^))) 3
+4^^^^^^    4
+
+Canvas #3
+ 0
+0 0
+
+Canvas #4
+ 01234
+0FFFFF0
+1FFFFF1
+2FFFFF2
+3FFFFF3
+4FFFFF4
+
+Canvas #5
+ 0
+0A0
+
+Canvas #6
+ 01234
+0SSSSS0
+1SSSSS1
+2SSSSS2
+3SSSSS3
+4SSSSS4
+
+Canvas #7
+ 0123456789
+0AAAAAAAAAA0
+1ABBBBBBBBB1
+2ABCCCCCCCC2
+3ABCDDDDDDD3
+4ABCDEEEEEE4
+5ABCDEFFFFF5
+6ABCDEFGGGG6
+7ABCDEFGHHH7
+8ABCDEFGHII8
+9ABCDEFGHIJ9
+
+Canvas #8
+ 0123456789
+0AAAAAAAAAA0
+1ABBBBBBBBB1
+2ABCCCCCCCC2
+3ABCDDDDDDD3
+4ABCDEEEEEE4
+5ABCDEFFFFF5
+6ABCDEFGGGG6
+7ABCDEFGHHH7
+8ABCDEFGHII8
+9ABCDEFGHIJ9
+
+Canvas #9
+ 0123456789
+0JIHGFEDCBA0
+1IIHGFEDCBA1
+2HHHGFEDCBA2
+3GGGGFEDCBA3
+4FFFFFEDCBA4
+5EEEEEEDCBA5
+6DDDDDDDCBA6
+7CCCCCCCCBA7
+8BBBBBBBBBA8
+9AAAAAAAAAA9
+
+Canvas #10
+ 0123456789
+0JIHGFEDCBA0
+1IIHGFEDCBA1
+2HHHGFEDCBA2
+3GGGGFEDCBA3
+4FFFFFEDCBA4
+5EEEEEEDCBA5
+6DDDDDDDCBA6
+7CCCCCCCCBA7
+8BBBBBBBBBA8
+9AAAAAAAAAA9
+
+Canvas #11
+ 0123
+0HAIL0
+1TO  1
+2THE 2
+3KING3
+4BABY4
+
+Canvas #12
+ 012345678901
+0DIVISIBILITY0
+
+Canvas #13
+ 0
+0H0
+1U1
+2G2
+3E3
+4S4
+5U5
+6C6
+7C7
+8E8
+9S9
+0S0
+
+Canvas #14
+ 01234567890123456789012345678901234567890123456789
+0AAAAaaAAAA    ||        ||        ||        ||    0
+1AAAAaaAAAA    ||        ||        ||        ||    1
+2AAAAaaAAAA    ||        ||        ||        ||    2
+3AAAAaaAAAA    ||        ||        ||        ||    3
+4--------------------------------------------------4
+5--------------------------------------------------5
+6AAAAaaAAAA    ||        ||        ||        ||    6
+7AAAAaaAAAA    ||        ||        ||        ||    7
+8AAAAaaAAAA    ||        ||        ||        ||    8
+9AAAAaaAAAA    ||        ||        ||        ||    9
+0    ||    BBBBbbBBBB    ||        ||        ||    0
+1    ||    BBBBbbBBBB    ||        ||        ||    1
+2    ||    BBBBbbBBBB    ||        ||        ||    2
+3    ||    BBBBbbBBBB    ||        ||        ||    3
+4--------------------------------------------------4
+5--------------------------------------------------5
+6    ||    BBBBbbBBBB    ||        ||        ||    6
+7    ||    BBBBbbBBBB    ||        ||        ||    7
+8    ||    BBBBbbBBBB    ||        ||        ||    8
+9    ||    BBBBbbBBBB    ||        ||        ||    9
+0    ||        ||    CCCCccCCCC    ||        ||    0
+1    ||        ||    CCCCccCCCC    ||        ||    1
+2    ||        ||    CCCCccCCCC    ||        ||    2
+3    ||        ||    CCCCccCCCC    ||        ||    3
+4--------------------------------------------------4
+5--------------------------------------------------5
+6    ||        ||    CCCCccCCCC    ||        ||    6
+7    ||        ||    CCCCccCCCC    ||        ||    7
+8    ||        ||    CCCCccCCCC    ||        ||    8
+9    ||        ||    CCCCccCCCC    ||        ||    9
+0    ||        ||        ||    DDDDddDDDD    ||    0
+1    ||        ||        ||    DDDDddDDDD    ||    1
+2    ||        ||        ||    DDDDddDDDD    ||    2
+3    ||        ||        ||    DDDDddDDDD    ||    3
+4--------------------------------------------------4
+5--------------------------------------------------5
+6    ||        ||        ||    DDDDddDDDD    ||    6
+7    ||        ||        ||    DDDDddDDDD    ||    7
+8    ||        ||        ||    DDDDddDDDD    ||    8
+9    ||        ||        ||    DDDDddDDDD    ||    9
+0    ||        ||        ||        ||    EEEEeeEEEE0
+1    ||        ||        ||        ||    EEEEeeEEEE1
+2    ||        ||        ||        ||    EEEEeeEEEE2
+3    ||        ||        ||        ||    EEEEeeEEEE3
+4--------------------------------------------------4
+5--------------------------------------------------5
+6    ||        ||        ||        ||    EEEEeeEEEE6
+7    ||        ||        ||        ||    EEEEeeEEEE7
+8    ||        ||        ||        ||    EEEEeeEEEE8
+9    ||        ||        ||        ||    EEEEeeEEEE9
+
+Canvas #15
+ 01234567890123456789012345678901234567890123456789
+0AAAA||AAAA    ||        ||        ||        ||    0
+1AAAA||AAAA    ||        ||        ||        ||    1
+2AAAA||AAAA    ||        ||        ||        ||    2
+3AAAA||AAAA    ||        ||        ||        ||    3
+4AAAA||AAAA----||--------||--------||--------||----4
+5AAAA||AAAA----||--------||--------||--------||----5
+6AAAA||AAAA    ||        ||        ||        ||    6
+7AAAA||AAAA    ||        ||        ||        ||    7
+8AAAA||AAAA    ||        ||        ||        ||    8
+9AAAA||AAAA    ||        ||        ||        ||    9
+0    ||    BBBB||BBBB    ||        ||        ||    0
+1    ||    BBBB||BBBB    ||        ||        ||    1
+2    ||    BBBB||BBBB    ||        ||        ||    2
+3    ||    BBBB||BBBB    ||        ||        ||    3
+4----||----BBBB||BBBB----||--------||--------||----4
+5----||----BBBB||BBBB----||--------||--------||----5
+6    ||    BBBB||BBBB    ||        ||        ||    6
+7    ||    BBBB||BBBB    ||        ||        ||    7
+8    ||    BBBB||BBBB    ||        ||        ||    8
+9    ||    BBBB||BBBB    ||        ||        ||    9
+0    ||        ||    CCCC||CCCC    ||        ||    0
+1    ||        ||    CCCC||CCCC    ||        ||    1
+2    ||        ||    CCCC||CCCC    ||        ||    2
+3    ||        ||    CCCC||CCCC    ||        ||    3
+4----||--------||----CCCC||CCCC----||--------||----4
+5----||--------||----CCCC||CCCC----||--------||----5
+6    ||        ||    CCCC||CCCC    ||        ||    6
+7    ||        ||    CCCC||CCCC    ||        ||    7
+8    ||        ||    CCCC||CCCC    ||        ||    8
+9    ||        ||    CCCC||CCCC    ||        ||    9
+0    ||        ||        ||    DDDD||DDDD    ||    0
+1    ||        ||        ||    DDDD||DDDD    ||    1
+2    ||        ||        ||    DDDD||DDDD    ||    2
+3    ||        ||        ||    DDDD||DDDD    ||    3
+4----||--------||--------||----DDDD||DDDD----||----4
+5----||--------||--------||----DDDD||DDDD----||----5
+6    ||        ||        ||    DDDD||DDDD    ||    6
+7    ||        ||        ||    DDDD||DDDD    ||    7
+8    ||        ||        ||    DDDD||DDDD    ||    8
+9    ||        ||        ||    DDDD||DDDD    ||    9
+0    ||        ||        ||        ||    EEEE||EEEE0
+1    ||        ||        ||        ||    EEEE||EEEE1
+2    ||        ||        ||        ||    EEEE||EEEE2
+3    ||        ||        ||        ||    EEEE||EEEE3
+4----||--------||--------||--------||----EEEE||EEEE4
+5----||--------||--------||--------||----EEEE||EEEE5
+6    ||        ||        ||        ||    EEEE||EEEE6
+7    ||        ||        ||        ||    EEEE||EEEE7
+8    ||        ||        ||        ||    EEEE||EEEE8
+9    ||        ||        ||        ||    EEEE||EEEE9
+
+Canvas #16
+ 01234
+0555550
+1666661
+2777772
+3888883
+4999994
+
+Canvas #17
+ 01234
+0999990
+1999991
+2999992
+3999993
+4999994
+
